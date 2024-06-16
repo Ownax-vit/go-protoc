@@ -1,4 +1,4 @@
-module protos_sso
+module github.com/ownax-vit/go-protoc
 
 go 1.21
 
